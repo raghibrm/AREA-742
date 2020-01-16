@@ -17,4 +17,5 @@ Download the project folder ‘Area 742’ from the repository. Download zip fil
 
 # Download the APK
 
-Link: https://drive.google.com/open?id=1ROW6ctl-FkjNEGHOdnqDun2nATxDOhD9
+Link: https://drive.google.com/open?id=1HvudNGJScmXiYvU6r299sITBLVuzpjNx
+
