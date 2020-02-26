@@ -13,9 +13,9 @@ The objective is to navigate to the shelter, without succumbing to the hostile, 
 
 # Setting up the project
 
-Download the project folder ‘Area 742’ from the repository. Download zip file from https://drive.google.com/open?id=1JqlswYzKEzGwWsI-HL5O42TA6Uh_7NIr and extract the contents in the Assets folder in the Unity Project.
+Download the project folder ‘Area 742’ from the repository. Download zip file from https://drive.google.com/open?id=1Xy-UbnJ-8dF40ZJlkNwWz5o_U5AKXsl9 and extract the contents in the Assets folder in the Unity Project.
 
 # Download the APK
 
-Link: https://drive.google.com/open?id=1HvudNGJScmXiYvU6r299sITBLVuzpjNx
+Link: https://drive.google.com/open?id=1xnNb7GE8_Zts4rGYVhbnrtzMb-er51hr
 
